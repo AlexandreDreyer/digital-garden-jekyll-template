@@ -1,4 +1,4 @@
-I"�*<h3 id="welcome">Welcome!</h3>
+I"((<h3 id="welcome">Welcome!</h3>
 
 <p>This is your first note. You’ll find it in the <a href="https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes"><code class="language-plaintext highlighter-rouge">notes/</code></a> directory.</p>
 
@@ -7,17 +7,17 @@
 <p>To link to another note, you can use multiple syntaxes. The following four use the “double-bracket” notation (<a href="https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax">view the Markdown source file</a> to see the underlying syntax).</p>
 
 <ul>
-  <li>Using the note title: <a class="internal-link" href="https://github.com/AlexandreDreyer/digital-garden-jekyll-template/cats">a note about cats</a></li>
-  <li>Using the note’s filename: <a class="internal-link" href="https://github.com/AlexandreDreyer/digital-garden-jekyll-template/cats">cats</a></li>
-  <li>Using the note’s title, with a label: <a class="internal-link" href="https://github.com/AlexandreDreyer/digital-garden-jekyll-template/cats">link to the note about cats using the note title</a></li>
-  <li>Using the note’s filename, with a label: <a class="internal-link" href="https://github.com/AlexandreDreyer/digital-garden-jekyll-template/cats">link to the note about cats using the note’s filename</a></li>
+  <li>Using the note title: <a class="internal-link" href="/cats">a note about cats</a></li>
+  <li>Using the note’s filename: <a class="internal-link" href="/cats">cats</a></li>
+  <li>Using the note’s title, with a label: <a class="internal-link" href="/cats">link to the note about cats using the note title</a></li>
+  <li>Using the note’s filename, with a label: <a class="internal-link" href="/cats">link to the note about cats using the note’s filename</a></li>
 </ul>
 
-<p>You can organize notes in subdirectories and link them normally. For example, the links above all point to the <code class="language-plaintext highlighter-rouge">_notes/animals/cats.md</code> file. Here’s another example: <a class="internal-link" href="https://github.com/AlexandreDreyer/digital-garden-jekyll-template/tigers">tigers</a>.</p>
+<p>You can organize notes in subdirectories and link them normally. For example, the links above all point to the <code class="language-plaintext highlighter-rouge">_notes/animals/cats.md</code> file. Here’s another example: <a class="internal-link" href="/tigers">tigers</a>.</p>
 
-<p>Non-latin languages are supported too: <a class="internal-link" href="https://github.com/AlexandreDreyer/digital-garden-jekyll-template/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94">안녕하세요</a>.</p>
+<p>Non-latin languages are supported too: <a class="internal-link" href="/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94">안녕하세요</a>.</p>
 
-<p>Dashes and underscores in file names are supported, and may be omitted in the bracket link syntax. As an example, the <code class="language-plaintext highlighter-rouge">your-first-note.md</code> file can be linked to with <a class="internal-link" href="https://github.com/AlexandreDreyer/digital-garden-jekyll-template/your-first-note">your first note</a> or <a class="internal-link" href="https://github.com/AlexandreDreyer/digital-garden-jekyll-template/your-first-note">your-first-note</a>, or even <a class="internal-link" href="https://github.com/AlexandreDreyer/digital-garden-jekyll-template/your-first-note">yOuR-FiRsT Note</a>.</p>
+<p>Dashes and underscores in file names are supported, and may be omitted in the bracket link syntax. As an example, the <code class="language-plaintext highlighter-rouge">your-first-note.md</code> file can be linked to with <a class="internal-link" href="/your-first-note">your first note</a> or <a class="internal-link" href="/your-first-note">your-first-note</a>, or even <a class="internal-link" href="/your-first-note">yOuR-FiRsT Note</a>.</p>
 
 <p>In all cases, if the double-bracket link does not point to a valid note, the double brackets will still be shown, like this: <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  there is no note that matches this link  <span class="invalid-link-brackets">]]</span></span>.</p>
 
@@ -61,7 +61,7 @@
 
 <h3 id="link-previews">Link previews</h3>
 
-<p>If you’re on a device with mouse support, try hovering your mouse on internal links to preview the notes: <a class="internal-link" href="https://github.com/AlexandreDreyer/digital-garden-jekyll-template/cats">a note about cats</a>.</p>
+<p>If you’re on a device with mouse support, try hovering your mouse on internal links to preview the notes: <a class="internal-link" href="/cats">a note about cats</a>.</p>
 
 <p>Links that have been previewed will be cached to avoid redundant requests.</p>
 
@@ -127,7 +127,7 @@
       <p>This is a footnote. For more information about using footnotes, check out the <a href="https://www.markdownguide.org/extended-syntax/#footnotes">Markdown Guide</a>. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
     <li id="fn:2" role="doc-endnote">
-      <p>This is another footnote that links to the note about <a class="internal-link" href="https://github.com/AlexandreDreyer/digital-garden-jekyll-template/cats">cats</a>. You may also point to <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  notes that do not exist  <span class="invalid-link-brackets">]]</span></span> if you wish. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>This is another footnote that links to the note about <a class="internal-link" href="/cats">cats</a>. You may also point to <span title="There is no note that matches this link." class="invalid-link">  <span class="invalid-link-brackets">[[</span>  notes that do not exist  <span class="invalid-link-brackets">]]</span></span> if you wish. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
