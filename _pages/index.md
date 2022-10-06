@@ -5,15 +5,15 @@ id: home
 permalink: /
 ---
 
-# Welcome Uncertainty! 🌱
+# Come on in beautiful people! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a gander at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+<p style="padding: 3em 1em; background: hsl(30, 80%, 90%); border-radius: 4px;">
+  Take a stroll through the garden of Uncertainty. Stay on the curated path and smell the lilies, or wander off into the shadows where the dark roses bloom. Careful not to stray into the jungle, where creatures howl in the night... you might get lost.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Here is the link to [[first-note|my first note as a test]].
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+And here is [[my second note]].
 
 <style>
   .wrapper {

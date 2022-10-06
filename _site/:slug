@@ -7,8 +7,12 @@
         "id": "3f58091e28d0c48c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "second-note.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "second-note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "second-note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "second-note.md"
+              }
             }
           }
         ]
@@ -121,5 +129,8 @@
     "collapsed": true
   },
   "active": "3f58091e28d0c48c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "first-note.md",
+    "second-note.md"
+  ]
 }
