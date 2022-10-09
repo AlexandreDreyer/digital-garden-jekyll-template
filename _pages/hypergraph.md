@@ -1,10 +1,14 @@
 ---
-layout: page
+layout: default graph
 title: Hypergraph
+id: graph
 permalink: /hypergraph
 ---
-Lorem Ipsum
 
-# Title
-
-bla bla
+# Hypergraph
+<hr>
+<style>
+  .wrapper {
+    max-width: 46em;
+  }
+</style>

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+
+  <link rel="canonical" href="https://the-garden-of-uncertainty.netlify.app//first-person-shooter" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta name="description" content="This entirely new structural organization of society is also a formidable challenge to our sense-making abilities. Our grandparents were still somewhat able ...">
+
+  <meta property="og:site_name" content="The Garden of Uncertainty">
+
+  <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
+
+  <link rel="stylesheet" href="/styles.css">
+
+  
+  <meta property="og:description" content="This entirely new structural organization of society is also a formidable challenge to our sense-making abilities. Our grandparents were still somewhat able ..."/>
+  
+
+  
+  <meta property="og:title" content="First Person Shooter">
+  <meta property="og:type" content="article">
+  
+
+  
+  <meta property="article:published_time" content="2022-10-09T22:10:24+08:00">
+  <meta property="article:author" content="https://the-garden-of-uncertainty.netlify.app//">
+  
+
+  <meta property="og:url" content="https://the-garden-of-uncertainty.netlify.app//first-person-shooter" />
+
+  
+
+  <title>
+    
+      First Person Shooter &mdash; The Garden of Uncertainty
+    
+  </title>
+</head>
+
+  <body>
+    <nav><div>
+    <a class="internal-link" href="/"><b>The Garden of Uncertainty</b></a>
+</div>
+</nav>
+    <div class="wrapper">
+      <main><article>
+  <div>
+    <h1>First Person Shooter</h1>
+    <time datetime="2022-10-09T22:09:25+08:00">
+      Last updated on October 9, 2022
+      
+    </time>
+  </div>
+
+  <div id="notes-entry-container">
+    <content>
+      <p>This entirely new structural organization of society is also a formidable challenge to our sense-making abilities. Our grandparents were still somewhat able to inhabit a local perspective to make sense of the world. But within the mesh, the local perspective has lost the ability to convey what is really going on. That is because it is point-focused. It is micro-localized. I call this the <em>first-person shooter fallacy</em> - life inside the Wolfenstein 3D video game. A game played through the eyes of a protagonist running through endless corridors. Always blatantly unaware of what lies behind the pixelated wall. Ignorant of the dangers lurking around the next corner. This perspective limits us to understanding only what is right in front of our eyes. It creates a concentric tunnel-vision making the world appear anthropocentrically scaled. It is the source of what cognitive scientists call <em>hyperbolic discounting</em>. The illusion that anything close to us is more salient. That things in the distance are less important. The existential challenges we face today, the <em>end-level-boss,</em> if you will, are neither local, nor human-scaled. That is why, despite being aware of them, we fail to grasp them. Timothy Morton calls these large phenomena <em>Hyperobjects</em>. Things like evolution, extinction, climate change, or plastic waste are all entities so distributed across time and space, that we cannot directly experience them. At best, we can perceive spacio-temporal fragments of them. Proximate micro-manifestations of something much, much bigger. We don’t experience the global climate for example. We perceive rain, sunshine, a thunderstorm, or a forest fire destroying our home. The myopia of our hyper-local, human-scaled point of view fails to grasp the hyperobjects within the mesh. They cannot be neatly shrink-wrapped, labeled, and categorized. Our micro-perspective fails to comprehend their transfinite nature. To make sense of the Mesh Age, we must move from an egocentric to an allocentric world view. A view in which we capture our relationship with the Mesh. Or as John Vervaeke more poetically put it, we must reach a state in which “<em>the salience of reality is finally capable of eclipsing the narcissistic glow of our ego.</em>”</p>
+
+<table> 
+  <tr>  
+    <td><button type="button"><a href="/dennis-lindley-quote" style="color: #f5993d">Back</a></button></td>  
+    <td><button type="button"><a href="/hypergraph" style="color: #f5993d">Hypergraph</a></button></td>   
+    <td><button type="button"><a href="/rot-at-the-core" style="color: #f5993d">Next page</a></button> </td>  
+  </tr>   
+</table>
+
+    </content>
+  </div>
+</article></main>
+      <footer>This is the Uncertainty footer. Here is a link to an <a class="internal-link" href="/about">About</a> page.
+</footer>
+    </div>
+
+    <!-- That file is not particularly elegant. This will need a refactor at some point. -->
+<style>
+  content a.internal-link {
+    border-color: #8b88e6;
+    background-color: #efefff;
+  }
+
+  #tooltip-wrapper {
+    background: white;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+    position: absolute;
+    width: 400px;
+    height: 250px;
+    font-size: 0.8em;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    opacity: 0;
+    transition: opacity 100ms;
+  }
+
+  #tooltip-wrapper:after {
+		content: "";
+		position: absolute;
+		z-index: 1;
+		bottom: 0;
+		left: 0;
+		pointer-events: none;
+		background-image: linear-gradient(to bottom, rgba(255,255,255, 0), rgba(255,255,255, 1) 90%);
+		width: 100%;
+		height: 75px;
+  }
+</style>
+
+<div style="opacity: 0; display: none;" id='tooltip-wrapper'>
+  <div id='tooltip-content'>
+  </div>
+</div>
+
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+</iframe>
+
+<script>
+  var opacityTimeout;
+  var contentTimeout;
+  var transitionDurationMs = 100;
+
+  var iframe = document.getElementById('link-preview-iframe')
+  var tooltipWrapper = document.getElementById('tooltip-wrapper')
+  var tooltipContent = document.getElementById('tooltip-content')
+
+  var linkHistories = {};
+
+  function hideTooltip() {
+    opacityTimeout = setTimeout(function() {
+      tooltipWrapper.style.opacity = 0;
+      contentTimeout = setTimeout(function() {
+        tooltipContent.innerHTML = '';
+        tooltipWrapper.style.display = 'none';
+      }, transitionDurationMs + 1);
+    }, transitionDurationMs)
+  }
+
+  function showTooltip(event) {
+    var elem = event.target;
+    var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
+    var top = window.pageYOffset || document.documentElement.scrollTop
+
+    if (event.target.host === window.location.host) {
+      if (!linkHistories[event.target.href]) {
+        iframe.src = event.target.href
+        iframe.onload = function() {
+          tooltipContentHtml = ''
+          tooltipContentHtml += '<div style="font-weight: bold;">' + iframe.contentWindow.document.querySelector('h1').innerHTML + '</div>'
+          tooltipContentHtml += iframe.contentWindow.document.querySelector('content').innerHTML
+
+          tooltipContent.innerHTML = tooltipContentHtml
+          linkHistories[event.target.href] = tooltipContentHtml
+
+          tooltipWrapper.style.display = 'block';
+          setTimeout(function() {
+            tooltipWrapper.style.opacity = 1;
+          }, 1)
+        } 
+      } else {
+        tooltipContent.innerHTML = linkHistories[event.target.href]
+        tooltipWrapper.style.display = 'block';
+        setTimeout(function() {
+          tooltipWrapper.style.opacity = 1;
+        }, 1)
+      }
+
+
+      tooltipWrapper.style.left = elem_props.left - (tooltipWrapper.offsetWidth / 2) + (elem_props.width / 2) + "px";
+      if ((window.innerHeight - elem_props.top) < (tooltipWrapper.offsetHeight)) {
+          tooltipWrapper.style.top = elem_props.top + top - tooltipWrapper.offsetHeight - 10 + "px";
+      } else if ((window.innerHeight - elem_props.top) > (tooltipWrapper.offsetHeight)) {
+          tooltipWrapper.style.top = elem_props.top + top + 35 + "px";
+      }
+
+      if ((elem_props.left + (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+          tooltipWrapper.style.left = "10px";
+      } else if ((document.body.clientWidth - elem_props.left - (elem_props.width / 2)) < (tooltipWrapper.offsetWidth / 2)) {
+          tooltipWrapper.style.left = document.body.clientWidth - tooltipWrapper.offsetWidth - 20 + "px";
+      }
+    }
+  }
+
+  function setupListeners(linkElement) {
+    linkElement.addEventListener('mouseleave', function(_event) {
+      hideTooltip();
+    });
+
+    tooltipWrapper.addEventListener('mouseleave', function(_event) {
+      hideTooltip();
+    });
+
+    linkElement.addEventListener('touchend', function(_event) {
+      hideTooltip();
+    });
+
+    tooltipWrapper.addEventListener('touchend', function(_event) {
+      hideTooltip();
+    });
+
+    linkElement.addEventListener('mouseenter', function(event) {
+      clearTimeout(opacityTimeout);
+      clearTimeout(contentTimeout);
+      showTooltip(event);
+    });
+
+    tooltipWrapper.addEventListener('mouseenter', function(event) {
+      clearTimeout(opacityTimeout);
+      clearTimeout(contentTimeout);
+    });
+  }
+
+  document.querySelectorAll('content a').forEach(setupListeners);
+</script>
+
+  </body>
+</html>
