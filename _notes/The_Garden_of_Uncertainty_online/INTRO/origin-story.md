@@ -10,3 +10,9 @@ As an industrial designer, I had originally intended to write a book about a sub
     <td><button type="button"><a href="/on-uncertainty" style="color: #f5993d">Next page</a></button> </td>  
   </tr>   
 </table>
+
+  <style>
+  .wrapper {
+    max-width: 46em;
+  }
+  </style>
