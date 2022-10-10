@@ -1,9 +1,8 @@
----
-title: Erich Fromm Quote
----
->“The quest for certainty blocks the search for meaning. Uncertainty is the very condition to impel man to unfold his powers.”
+I"Q<blockquote>
+  <p>“The quest for certainty blocks the search for meaning. Uncertainty is the very condition to impel man to unfold his powers.”</p>
+</blockquote>
 
-~ Erich Fromm, Having and Being
+<p>~ Erich Fromm, Having and Being</p>
 
 <table> 
   <tr>  
@@ -12,3 +11,4 @@ title: Erich Fromm Quote
     <td><button type="button"><a href="/XXXXXXX INSERT HERE" style="color: #f5993d">Next page</a></button> </td>  
   </tr>   
 </table>
+:ET

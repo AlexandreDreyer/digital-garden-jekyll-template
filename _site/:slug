@@ -6,10 +6,24 @@
       {
         "id": "3f58091e28d0c48c",
         "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "INTRO/Erich Fromm quote.md",
+            "file": "INTRO/Dennis Lindley quote.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "015f5c198b4a9908",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "INTRO/Causality.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTRO/Erich Fromm quote.md",
+                "file": "INTRO/Dennis Lindley quote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTRO/Erich Fromm quote.md",
+                "file": "INTRO/Dennis Lindley quote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTRO/Erich Fromm quote.md"
+                "file": "INTRO/Dennis Lindley quote.md"
               }
             }
           }
@@ -130,15 +144,15 @@
   },
   "active": "3f58091e28d0c48c",
   "lastOpenFiles": [
-    "INTRO/Control and Predict.md",
-    "INTRO/Shoshana Zuboff quote.md",
-    "INTRO/Rot at the Core.md",
-    "INTRO/First Person Shooter.md",
-    "INTRO/Dennis Lindley quote.md",
-    "INTRO/Jung quote Red Book.md",
+    "INTRO/1-Intro Path.md",
+    "INTRO/Erich Fromm quote.md",
+    "INTRO/Causality.md",
     "INTRO/Silent Shadow.md",
-    "INTRO/Synonyms.md",
-    "INTRO/The Beast.md",
-    "INTRO/hyperbook.md"
+    "INTRO/Time.md",
+    "INTRO/hyperbook.md",
+    "INTRO/Jung quote Red Book.md",
+    "INTRO/roots of uncertainty.md",
+    "INTRO/Dennis Lindley quote.md",
+    "INTRO/Synonyms.md"
   ]
 }

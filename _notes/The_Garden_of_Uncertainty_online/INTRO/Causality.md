@@ -5,7 +5,7 @@ Where there is choice, there is uncertainty. Choices are part of every survival 
 
 <table> 
   <tr>  
-    <td><button type="button"><a href="/jung quote red book" style="color: #f5993d">Back</a></button></td>  
+    <td><button type="button"><a href="/jung-quote-red-book" style="color: #f5993d">Back</a></button></td>  
     <td><button type="button"><a href="/hypergraph" style="color: #f5993d">Hypergraph</a></button></td>   
     <td><button type="button"><a href="/time" style="color: #f5993d">Next page</a></button> </td>  
   </tr>   
