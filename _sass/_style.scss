@@ -17,7 +17,7 @@ body {
   padding: 4vh 6vw;
   overflow-x: hidden;
   color: $color-text;
-  font-size: 1rem;
+  font-size: 1.2rem;
   max-width: 63em;
 
   @media (min-width: 820px) {
@@ -37,6 +37,7 @@ td, th {
 
 button {
   border: none;
+  border-radius: $border-radius;
   background-color: hsl(30, 80%, 90%);
   padding: 1.2em;
   text-align: center;
@@ -74,10 +75,10 @@ blockquote {
   font-size: 1.2rem;
   background: $color-box-background;
   border-radius: $border-radius;
+}
 
   p {
     margin: 0;
-  }
 }
 
 hr {
