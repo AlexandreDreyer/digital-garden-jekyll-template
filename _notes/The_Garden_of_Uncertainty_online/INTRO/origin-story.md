@@ -11,8 +11,3 @@ As an industrial designer, I had originally intended to write a book about a sub
   </tr>   
 </table>
 
-  <style>
-  .wrapper {
-    max-width: 46em;
-  }
-  </style>
