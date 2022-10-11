@@ -7,6 +7,7 @@ permalink: /
 
 # Welcome Weary Traveler! 🌱
 
+<hr>
 
 Take a stroll through the ***digital garden of uncertainty***. Roam on the curated path and smell the lilies, or wander off into the shadows where the dark roses bloom. But be careful not to stray into the jungle, where creatures howl in the night...
 

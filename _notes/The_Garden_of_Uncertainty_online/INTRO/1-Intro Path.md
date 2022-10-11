@@ -1,4 +1,5 @@
 ---
+title: Intro path
 ---
 
 - [[origin-story]]
