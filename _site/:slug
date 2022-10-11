@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "INTRO/1-Intro Path.md",
+            "file": "meaning.md",
             "mode": "source",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTRO/1-Intro Path.md",
+                "file": "meaning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTRO/1-Intro Path.md",
+                "file": "meaning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTRO/1-Intro Path.md"
+                "file": "meaning.md"
               }
             }
           }
@@ -144,15 +144,15 @@
   },
   "active": "3f58091e28d0c48c",
   "lastOpenFiles": [
-    "INTRO/Bruno Latour quote.md",
+    "creativity.md",
+    "agency.md",
+    "knowledge.md",
     "INTRO/1-Intro Path.md",
+    "INTRO/Causality.md",
+    "INTRO/Bruno Latour quote.md",
     "INTRO/origin-story.md",
     "INTRO/Dennis Lindley quote.md",
     "INTRO/Erich Fromm quote.md",
-    "INTRO/Causality.md",
-    "INTRO/Silent Shadow.md",
-    "INTRO/Time.md",
-    "INTRO/hyperbook.md",
-    "INTRO/Jung quote Red Book.md"
+    "INTRO/Silent Shadow.md"
   ]
 }
