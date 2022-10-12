@@ -7,6 +7,6 @@ This book is an attempt to reframe our relationship with this misunderstood feat
   <tr>  
     <td><button type="button"><a href="/origin-story" style="color: #f5993d">Back</a></button></td>  
     <td><button type="button"><a href="/hypergraph" style="color: #f5993d">Hypergraph</a></button></td>   
-    <td><button type="button"><a href="/hyperbook" style="color: #f5993d">Next page</a></button> </td>  
+    <td><button type="button"><a href="/bruno-latour-quote" style="color: #f5993d">Next page</a></button> </td>  
   </tr>   
 </table>

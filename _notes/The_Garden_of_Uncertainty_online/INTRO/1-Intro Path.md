@@ -4,23 +4,30 @@ title: Intro path
 
 - [[origin-story]]
 - [[on-uncertainty]]
+- [[bruno-latour-quote]]
 - [[hyperbook]]
-- [[The Beast]]
-- [[Synonyms]]
-- [[roots of uncertainty]]:
-- [[Silent Shadow]]
-- [[Jung quote Red Book]]
-- [[Causality]]
-- [[Time]] 
-- [[Dennis Lindley quote]]
-- Space  
-- [[First Person Shooter]]
-- Social 
-- [[Rot at the Core]]
-- [[Shoshana Zuboff quote]]
-- [[Control and Predict]]
-- Cognitive
-- Metaphysical
+- [[the-beast]]
+- [[synonyms]]
+- [[roots-of-uncertainty]]
+- [[silent-shadow]]
+- [[jung-quote-red-book]]
+- [[choice]]
+	- [[four-creatures]]
+	- [[darwin]]
+	- [[skinner]]
+	- [[popper]]
+	- [[gregory]]
+	- [[prediction-and-choice]]
+- [[time]] 
+	- [[dennis-lindley-quote]]
+- space
+	- [[First Person Shooter]]
+- social 
+	- [[Rot at the Core]]
+	- [[Shoshana Zuboff quote]]
+	- [[Control and Predict]]
+- cognition
+- metaphysics
 - Associations (doubt, fear, belief, trust, confidence)
 - Probability and risk ≠ uncertainty
 - Four branches of this book (with real-world impact!)

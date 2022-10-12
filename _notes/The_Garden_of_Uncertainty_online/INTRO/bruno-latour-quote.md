@@ -7,8 +7,8 @@ The world is not a solid continent of facts sprinkled by a few lakes of uncertai
 
 <table> 
   <tr>  
-    <td><button type="button"><a href="/home" style="color: #f5993d">Back</a></button></td>  
+    <td><button type="button"><a href="/on-uncertainty" style="color: #f5993d">Back</a></button></td>  
     <td><button type="button"><a href="/home" style="color: #f5993d">Hypergraph</a></button></td>   
-    <td><button type="button"><a href="/home" style="color: #f5993d">Next page</a></button> </td>  
+    <td><button type="button"><a href="/hyperbook" style="color: #f5993d">Next page</a></button> </td>  
   </tr>   
 </table>
