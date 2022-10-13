@@ -9,6 +9,6 @@ title: Jung quote Red Book
   <tr>  
     <td><button type="button"><a href="/silent-shadow" style="color: #f5993d">Back</a></button></td>  
     <td><button type="button"><a href="/hypergraph" style="color: #f5993d">Hypergraph</a></button></td>   
-    <td><button type="button"><a href="/causality" style="color: #f5993d">Next page</a></button> </td>  
+    <td><button type="button"><a href="/choice" style="color: #f5993d">Next page</a></button> </td>  
   </tr>   
 </table>

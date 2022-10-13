@@ -1,0 +1,9 @@
+I"<ul>
+  <li>Dynamic “next” and “back” <strong>buttons</strong> (next can be larger)</li>
+  <li><strong>Network graph</strong> (Hypergraph) button as overlay</li>
+  <li><strong>Marginalia</strong> submission and icon display at the bottom</li>
+  <li><strong>Linear navigation</strong>, table of content style (can be burger-menu for mobile and fixed side bar in browser)</li>
+  <li>Display <strong>path</strong>: e.g. “Home / Introduction / Choice / Popper” somewhere top or bottom of page</li>
+  <li>Skip to next sec</li>
+</ul>
+:ET

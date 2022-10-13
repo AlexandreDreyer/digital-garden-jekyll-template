@@ -6,24 +6,24 @@
       {
         "id": "3f58091e28d0c48c",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 28.6231884057971,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MEANING/UI elements to be built.md",
+            "file": "INTRO/1-Intro Path.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "015f5c198b4a9908",
+        "id": "c8e23d550aa8458a",
         "type": "leaf",
-        "dimension": 50,
+        "dimension": 71.37681159420289,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "INTRO/Causality.md",
+            "file": "INTRO/time.md",
             "mode": "source",
             "source": false
           }
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "682bbfaffa3d61e4",
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEANING/UI elements to be built.md",
+                "file": "INTRO/time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEANING/UI elements to be built.md",
+                "file": "INTRO/time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEANING/UI elements to be built.md"
+                "file": "INTRO/time.md"
               }
             }
           }
@@ -142,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f58091e28d0c48c",
+  "active": "c8e23d550aa8458a",
   "lastOpenFiles": [
-    "MEANING/meaning.md",
-    "CREATIVITY/creativity.md",
-    "AGENCY/agency.md",
-    "KNOWLEDGE/knowledge.md",
+    "INTRO/prediction-and-choice.md",
+    "INTRO/darwin.md",
+    "INTRO/four-creatures.md",
+    "DEVELOPMENT/UI elements to be built.md",
     "INTRO/1-Intro Path.md",
-    "INTRO/Causality.md",
-    "INTRO/Bruno Latour quote.md",
-    "INTRO/origin-story.md",
-    "INTRO/Dennis Lindley quote.md",
-    "INTRO/Erich Fromm quote.md"
+    "INTRO/choice.md",
+    "INTRO/jung-quote-red-book.md",
+    "INTRO/gregory.md",
+    "INTRO/dennis-lindley-quote.md",
+    "INTRO/time.md"
   ]
 }
