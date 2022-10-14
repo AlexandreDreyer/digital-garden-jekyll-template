@@ -12,6 +12,7 @@ body {
   box-sizing: content-box;
   font-family: $font-family;
   margin: 0 auto;
+  margin-bottom: 40;
   line-height: normal;
   padding: 4vh 6vw;
   overflow-x: hidden;
@@ -24,19 +25,7 @@ body {
   }
 }
 
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 0px solid #dddddd;
-  text-align: center;
-  padding: 8px;
-}
-
 button {
-  border: none;
   border-radius: $border-radius;
   background-color: hsl(30, 80%, 90%);
   padding: 1.2em;
@@ -78,7 +67,7 @@ blockquote {
 }
 
   p {
-    margin: 0;
+    margin-top: 40;
 }
 
 hr {
@@ -108,7 +97,7 @@ h2 {
 
 article {
   font-family: $font-family;
-  margin: 0 auto;
+  margin: 0;
   line-height: normal;
   font-size: 1.2rem;
   overflow-x: hidden;

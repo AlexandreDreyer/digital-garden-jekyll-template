@@ -1,12 +1,7 @@
 ---
-title: title template
+title: Time
 ---
 Lorem Ipsum
 
-<table> 
-  <tr>  
-    <td><button type="button"><a href="/home" style="color: #f5993d">Back</a></button></td>  
-    <td><button type="button"><a href="/home" style="color: #f5993d">Hypergraph</a></button></td>   
-    <td><button type="button"><a href="/home" style="color: #f5993d">Next page</a></button> </td>  
-  </tr>   
-</table>
+<p style="text-align: center; background-color: #fae6d1; padding: 20px">[[note|Next page]]</p>
+<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[note|Previous page]]</p>

@@ -19,8 +19,11 @@ title: Intro path
 	- [[gregory]]
 	- [[prediction-and-choice]]
 - [[time]] 
+	- [[past]]
+	- [[present]]
+	- [[future]]
 	- [[dennis-lindley-quote]]
-- space
+- [[space]]
 	- [[First Person Shooter]]
 - social 
 	- [[Rot at the Core]]

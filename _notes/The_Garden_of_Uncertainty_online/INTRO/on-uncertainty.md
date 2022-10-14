@@ -3,10 +3,5 @@ title: On Uncertainty
 ---
 This book is an attempt to reframe our relationship with this misunderstood feature of our world. My thesis is that uncertainty isn't a residual error that thwarts our otherwise flawless calculations. It isn't the small and remote pocket of unexplored wilderness, the diminishing shadow receding before our growing scientific and technological prowess. It is a permanent feature of the world that we neglect at our own peril. It is the vast negative space that delineates our body of knowledge. It is the boundary condition that shapes the evolution of biological life as well as the confines of our perception. It is a force that determines our choices and social interactions. Most importantly, it is the seedbed of creativity, innovation and everything that lies in the future. Uncertainty is value free. Despite common misconceptions it is neither good nor bad. It can help or hinder, spurn or stymie us. However, it has a powerful impact on our lives. It has a direct effect on professional choices and corporate decision-making. As a precursor to fear, it can send shockwaves through global markets, sway government policy, and even trigger war. Lastly, the feeling of uncertainty is often caused by a feature that is becoming a defining characteristic of our time. Change. On a cognitive and emotional level we do not deal well with rapid shifts in our environment. It makes acquired knowledge obsolete and disrupts our habits. However, whether we like it or not, the pace of social, environmental, and technological change is accelerating in the world and it is crucial that we learn to become more adaptable. Understanding, domesticating, and learning to live with uncertainty may well be key to our success as a species.
 
-<table> 
-  <tr>  
-    <td><button type="button"><a href="/origin-story" style="color: #f5993d">Back</a></button></td>  
-    <td><button type="button"><a href="/hypergraph" style="color: #f5993d">Hypergraph</a></button></td>   
-    <td><button type="button"><a href="/bruno-latour-quote" style="color: #f5993d">Next page</a></button> </td>  
-  </tr>   
-</table>
+<p style="text-align: center; background-color: #fae6d1; padding: 20px">[[bruno-latour-quote|Next page]]</p>
+<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[origin-story|Previous page]]</p>

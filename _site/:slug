@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "INTRO/time.md",
+            "file": "INTRO/on-uncertainty.md",
             "mode": "source",
             "source": false
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTRO/time.md",
+                "file": "INTRO/on-uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTRO/time.md",
+                "file": "INTRO/on-uncertainty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTRO/time.md"
+                "file": "INTRO/on-uncertainty.md"
               }
             }
           }
@@ -145,15 +145,15 @@
   },
   "active": "c8e23d550aa8458a",
   "lastOpenFiles": [
-    "INTRO/prediction-and-choice.md",
+    "INTRO/origin-story.md",
+    "INTRO/gregory.md",
     "INTRO/darwin.md",
+    "INTRO/hyperbook.md",
+    "INTRO/time.md",
+    "INTRO/prediction-and-choice.md",
     "INTRO/four-creatures.md",
     "DEVELOPMENT/UI elements to be built.md",
     "INTRO/1-Intro Path.md",
-    "INTRO/choice.md",
-    "INTRO/jung-quote-red-book.md",
-    "INTRO/gregory.md",
-    "INTRO/dennis-lindley-quote.md",
-    "INTRO/time.md"
+    "INTRO/choice.md"
   ]
 }

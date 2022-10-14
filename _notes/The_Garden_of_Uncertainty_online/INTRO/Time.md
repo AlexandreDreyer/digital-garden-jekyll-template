@@ -3,10 +3,6 @@ title: Time
 ---
 Lorem Ipsum
 
-<table> 
-  <tr>  
-    <td><button type="button"><a href="/causality" style="color: #f5993d">Back</a></button></td>  
-    <td><button type="button"><a href="/hypergraph" style="color: #f5993d">Hypergraph</a></button></td>   
-    <td><button type="button"><a href="/dennis-lindley-quote" style="color: #f5993d">Next page</a></button> </td>  
-  </tr>   
-</table>
+<p style="text-align: center; background-color: #fae6d1; padding: 20px">[[silent-shadow|Next page]]</p>
+<p style="text-align: center; color: black; background-color: white; padding: 20px">[[space|Skip Section]]</p>
+<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[prediction-and-choice|Previous page]]</p>

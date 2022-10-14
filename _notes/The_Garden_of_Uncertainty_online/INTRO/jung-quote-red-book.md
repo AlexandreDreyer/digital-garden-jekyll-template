@@ -5,10 +5,6 @@ title: Jung quote Red Book
 
 ~ Carl Gustav Jung, The Red Book
 
-<table> 
-  <tr>  
-    <td><button type="button"><a href="/silent-shadow" style="color: #f5993d">Back</a></button></td>  
-    <td><button type="button"><a href="/hypergraph" style="color: #f5993d">Hypergraph</a></button></td>   
-    <td><button type="button"><a href="/choice" style="color: #f5993d">Next page</a></button> </td>  
-  </tr>   
-</table>
+
+<p style="text-align: center; background-color: #fae6d1; padding: 20px">[[choice|Next page]]</p>
+<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[silent-shadow|Previous page]]</p>

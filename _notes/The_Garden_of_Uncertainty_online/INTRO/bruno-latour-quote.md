@@ -3,12 +3,8 @@ title: Bruno Latour quote
 ---
 The world is not a solid continent of facts sprinkled by a few lakes of uncertainties, but a vast ocean of uncertainties speckled by a few islands of calibrated and stabilized forms.
 
-~ Bruno Latour, ==insert book title!!!==
+~ Bruno Latour, We Have Never Been Modern
 
-<table> 
-  <tr>  
-    <td><button type="button"><a href="/on-uncertainty" style="color: #f5993d">Back</a></button></td>  
-    <td><button type="button"><a href="/home" style="color: #f5993d">Hypergraph</a></button></td>   
-    <td><button type="button"><a href="/hyperbook" style="color: #f5993d">Next page</a></button> </td>  
-  </tr>   
-</table>
+
+<p style="text-align: center; background-color: #fae6d1; padding: 20px">[[hyperbook|Next page]]</p>
+<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[bruno-latour-quote|Previous page]]</p>
