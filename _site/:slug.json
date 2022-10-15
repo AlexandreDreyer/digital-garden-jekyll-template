@@ -6,7 +6,7 @@
       {
         "id": "380818fbe9545ac4",
         "type": "tabs",
-        "dimension": 28.6231884057971,
+        "dimension": 16.701902748414376,
         "children": [
           {
             "id": "3f58091e28d0c48c",
@@ -25,7 +25,7 @@
       {
         "id": "0e311dad153737c5",
         "type": "tabs",
-        "dimension": 71.37681159420289,
+        "dimension": 83.29809725158562,
         "children": [
           {
             "id": "6c8712577458efee",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTRO/past.md",
+                "file": "INTRO/bruno-latour-quote.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTRO/past.md",
+                "file": "INTRO/bruno-latour-quote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTRO/past.md",
+                "file": "INTRO/bruno-latour-quote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTRO/past.md"
+                "file": "INTRO/bruno-latour-quote.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "6c8712577458efee",
   "lastOpenFiles": [
-    "INTRO/1-Intro Path.md",
+    "INTRO/time.md",
+    "INTRO/silent-shadow.md",
     "INTRO/past.md",
+    "INTRO/1-Intro Path.md",
     "TEMPLATES/template note.md",
     "TEMPLATES/template note with skip.md",
-    "INTRO/time.md",
     "INTRO/choice.md",
     "INTRO/prediction-and-choice.md",
     "INTRO/gregory.md",
-    "INTRO/popper.md",
-    "INTRO/skinner.md"
+    "INTRO/popper.md"
   ]
 }

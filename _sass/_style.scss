@@ -52,10 +52,7 @@ footer {
 
 img {
   max-width: 100%;
-  display: block;
   margin: 0 auto;
-  max-height: 75vh;
-  border-radius: $border-radius;
 }
 
 blockquote {
@@ -90,7 +87,7 @@ h6{
 
 h2 {
     text-color: $color-link;
-    line-height: 0.1rem;
+    line-height: 1.5rem;
     padding-top: 30px;
     
 }

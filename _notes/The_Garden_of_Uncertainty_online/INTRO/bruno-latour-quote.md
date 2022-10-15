@@ -7,4 +7,4 @@ The world is not a solid continent of facts sprinkled by a few lakes of uncertai
 
 
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[hyperbook|Next page]]</p>
-<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[bruno-latour-quote|Previous page]]</p>
+<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[on-uncertainty|Previous page]]</p>

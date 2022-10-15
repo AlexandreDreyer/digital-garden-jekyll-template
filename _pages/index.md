@@ -5,9 +5,9 @@ id: home
 permalink: /
 ---
 
-# Welcome Weary Traveler! 🌱
+<img src="/assets/Garden of Uncertainty.jpg"/>
 
-Take a stroll through the ***digital garden of uncertainty***. Roam on the curated path and smell the lilies, or wander off into the shadows where the dark roses bloom. But be careful not to stray into the jungle, where creatures howl in the night...
+#### Take a stroll through the ***digital garden of uncertainty***. Roam on the curated path and smell the lilies, or wander off into the shadows where the dark roses bloom. But be careful not to stray into the forest, where creatures howl in the night...
 
 <hr>
 
@@ -19,7 +19,7 @@ This book lies at the intersection of two passion projects: my lasting fascinati
 
 <h2 style="color: #f5993d">Marginalia</h2>
 
-Drop a comment, image, or video at the bottom of each page. These contributions are ***marginalia*** in reference to the custom of scribbling and annotating the margins of books. When this book goes to print, select marginalia will be included in the print-run. Authors will be credited by name (if provided) and will receive a ***free print book***
+Please drop a comment, poem, drawing, or image on a page you like. These are ***marginalia*** in reference to the age-old custom of scribbling in the margins of books. When this book goes to print, select marginalia will be included in the print-run. Authors will be credited by name and receive a ***free print book***.
 
 <hr>
 
@@ -29,7 +29,7 @@ This book has no chapters. It is an assemblage of self-contained paragraphs - ea
 
 <hr>
 
-<button type="button"><a href="/origin-story" style="color: #f5993d">Start reading here!</a></button>
+<p style="text-align: center; background-color: #fae6d1; padding: 20px">[[origin-story|Start reading here]]</p>
 
 <style>
   .wrapper {
