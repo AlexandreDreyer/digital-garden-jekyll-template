@@ -10,3 +10,11 @@ Although it seems confusing, this list reveals an interesting pattern. The first
 
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[roots-of-uncertainty|Next page]]</p>
 <p style="text-align: center; background-color: #f9ecec; padding: 20px">[[the-beast|Previous page]]</p>
+<details>
+<summary>Pages in this section:</summary>
+
+[[roots-of-uncertainty]]
+- [[silent-shadow]]
+- [[jung-quote-red-book]]
+
+</details>

@@ -6,7 +6,7 @@
       {
         "id": "380818fbe9545ac4",
         "type": "tabs",
-        "dimension": 16.701902748414376,
+        "dimension": 23.567335243553007,
         "children": [
           {
             "id": "3f58091e28d0c48c",
@@ -25,7 +25,7 @@
       {
         "id": "0e311dad153737c5",
         "type": "tabs",
-        "dimension": 83.29809725158562,
+        "dimension": 76.43266475644698,
         "children": [
           {
             "id": "6c8712577458efee",
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTRO/bruno-latour-quote.md",
+                "file": "INTRO/time.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTRO/bruno-latour-quote.md",
+                "file": "INTRO/1-Intro Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTRO/bruno-latour-quote.md",
+                "file": "INTRO/1-Intro Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTRO/bruno-latour-quote.md"
+                "file": "INTRO/1-Intro Path.md"
               }
             }
           }
@@ -161,17 +161,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6c8712577458efee",
+  "active": "3f58091e28d0c48c",
   "lastOpenFiles": [
     "INTRO/time.md",
+    "INTRO/1-Intro Path.md",
+    "INTRO/synonyms.md",
+    "INTRO/origin-story.md",
+    "INTRO/choice.md",
+    "INTRO/bruno-latour-quote.md",
     "INTRO/silent-shadow.md",
     "INTRO/past.md",
-    "INTRO/1-Intro Path.md",
     "TEMPLATES/template note.md",
-    "TEMPLATES/template note with skip.md",
-    "INTRO/choice.md",
-    "INTRO/prediction-and-choice.md",
-    "INTRO/gregory.md",
-    "INTRO/popper.md"
+    "TEMPLATES/template note with skip.md"
   ]
 }

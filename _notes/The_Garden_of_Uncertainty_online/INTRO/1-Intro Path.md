@@ -3,40 +3,40 @@ title: Intro path
 ---
 
 - [[origin-story]]
-- [[on-uncertainty]]
-- [[bruno-latour-quote]]
-- [[hyperbook]]
-- [[the-beast]]
+	- on uncertainty
+	- bruno latour quote
+	- hyperbook
+	- the beast
 - [[synonyms]]
-- [[roots-of-uncertainty]]
-- [[silent-shadow]]
-- [[jung-quote-red-book]]
+	- roots of uncertainty
+	- silent shadow
+	- jung quote red book
 - [[choice]]
-	- [[four-creatures]]
-	- [[darwin]]
-	- [[skinner]]
-	- [[popper]]
-	- [[gregory]]
-	- [[prediction-and-choice]]
-- [[time]] 
-	- [[past]]
-	- [[present]]
-	- [[future]]
-	- [[dennis-lindley-quote]]
+	- four creatures
+	- darwin
+	- skinner
+	- popper
+	- gregory
+	- prediction and choice
+- [[time]]
+	- past
+	- present
+	- future
+	- dennis lindley quote
 - [[space]]
-	- [[First Person Shooter]]
-- social 
-	- [[Rot at the Core]]
-	- [[Shoshana Zuboff quote]]
-	- [[Control and Predict]]
-- cognition
-- metaphysics
+	- First Person Shooter
+- [[social]]
+	- Rot at the Core
+	- Shoshana Zuboff quote
+	- Control and Predict
+- [[cognition]]
+- [[metaphysics]]
 - Associations (doubt, fear, belief, trust, confidence)
 - Probability and risk ≠ uncertainty
-- Four branches of this book (with real-world impact!)
+- [[Four branches]] of this book (with real-world impact!)
 	- Knowledge
 	- Agency
 	- Creativity
 	- Understanding
 - Premise of this book
-- [[Erich Fromm quote]]
+- Erich Fromm quote
