@@ -6,7 +6,7 @@
       {
         "id": "380818fbe9545ac4",
         "type": "tabs",
-        "dimension": 23.567335243553007,
+        "dimension": 23.836793128131706,
         "children": [
           {
             "id": "3f58091e28d0c48c",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTRO/1-Intro Path.md",
+                "file": "INTRO/1-The Beginning.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
       {
         "id": "0e311dad153737c5",
         "type": "tabs",
-        "dimension": 76.43266475644698,
+        "dimension": 76.1632068718683,
         "children": [
           {
-            "id": "6c8712577458efee",
+            "id": "e111afc655dd32c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTRO/time.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Rohrschach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTRO/1-Intro Path.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTRO/1-Intro Path.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTRO/1-Intro Path.md"
+                "file": "about.md"
               }
             }
           }
@@ -161,17 +161,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3f58091e28d0c48c",
+  "active": "e111afc655dd32c2",
   "lastOpenFiles": [
-    "INTRO/time.md",
-    "INTRO/1-Intro Path.md",
-    "INTRO/synonyms.md",
-    "INTRO/origin-story.md",
-    "INTRO/choice.md",
-    "INTRO/bruno-latour-quote.md",
-    "INTRO/silent-shadow.md",
+    "INTRO/1-The Beginning.md",
+    "about.md",
+    "INTRO/james-carse-quote.md",
     "INTRO/past.md",
-    "TEMPLATES/template note.md",
-    "TEMPLATES/template note with skip.md"
+    "INTRO/space.md",
+    "INTRO/prediction-and-choice.md",
+    "INTRO/gregory.md",
+    "INTRO/time.md",
+    "INTRO/bruno-latour-quote.md",
+    "INTRO/jung-quote-red-book.md"
   ]
 }
