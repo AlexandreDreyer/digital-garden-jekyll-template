@@ -5,3 +5,10 @@ Uncertainty is a formidable beast. It profoundly shapes our lives, yet playfully
 
 
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[synonyms|Next page]]</p>
+
+<hr>
+<p style="text-align: center; color: #f2800d">Marginalia</p>
+<figure>  
+  <img src="/assets/the_beast_midjourney.jpg"/>  
+  <figcaption>Image by Anagoge @ Midjourney</figcaption>  
+</figure>
