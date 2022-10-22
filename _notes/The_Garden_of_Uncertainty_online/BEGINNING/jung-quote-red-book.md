@@ -6,5 +6,10 @@ title: Jung quote Red Book
 ~ Carl Gustav Jung, The Red Book
 
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[death-drive|Next page]]</p>
-<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[silent-shadow|Previous page]]</p>
-<img src="/assets/jung_quote_midjourney.jpg"/>
+
+<hr>
+<p style="text-align: center; color: #f2800d">Marginalia</p>
+<figure>  
+  <img src="/assets/jung_quote_midjourney.jpg"/>  
+  <figcaption>Image by Anagoge @ Midjourney</figcaption>  
+</figure>

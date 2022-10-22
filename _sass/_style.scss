@@ -12,7 +12,7 @@ body {
   box-sizing: content-box;
   font-family: $font-family;
   margin: 0 auto;
-  margin-bottom: 40;
+  margin-bottom: 0;
   line-height: normal;
   padding: 4vh 6vw;
   overflow-x: hidden;
@@ -35,16 +35,21 @@ footer {
 img {
   max-width: 100%;
   margin: 0 auto;
+  padding: 0px;
+  display: block;
 }
 
-.crop-container {
-    width: 200px;
-    height: 300px;
-    overflow: hidden;
+figure {
+  border: none;
+  padding: 0px;
+  margin: 0px; 
+  display: block;
 }
-.crop-container img {
-    margin-top: -100px;
-    margin-left: -200px;
+
+figcaption {
+  font-style: italic;
+  padding: 0px;
+  text-align: left;
 }
 
 blockquote {
@@ -56,7 +61,7 @@ blockquote {
 }
 
   p {
-    margin-top: 40;
+    margin-top: 10;
 }
 
 hr {

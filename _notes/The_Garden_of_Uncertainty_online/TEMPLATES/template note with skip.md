@@ -4,9 +4,14 @@ title: Time
 Lorem Ipsum
 
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[INSERT|Next page]]</p>
-<p style="text-align: center; background-color: #f9ecec; padding: 10px">[[INSERT|Previous page]]</p>
+<hr>
+<p style="text-align: center; color: #f2800d">Marginalia</p>
+<figure>  
+  <img src="/assets/IMAGE.jpg"/>  
+  <figcaption>Image by Anagoge @ Midjourney</figcaption>  
+</figure>
 
-<p style="text-align: center; padding: 10px">[[INSERT|Skip Section]]⬈</p>
+<hr>
 
 <details>
 <summary>Pages in this section:</summary>

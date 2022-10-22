@@ -7,7 +7,11 @@ As a product designer by training, I had intended to write a book about a subjec
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[obsession|Next page]]</p>
 <hr>
 <p style="text-align: center; color: #f2800d">Marginalia</p>
-<img src="/assets/uncertainty_midjourney.jpg"/>
+<figure>  
+  <img src="/assets/uncertainty_midjourney.jpg"/>  
+  <figcaption>Image by Anagoge @ Midjourney</figcaption>  
+</figure>
+<hr>
 
 <details>
 <summary>Pages in this section:</summary>

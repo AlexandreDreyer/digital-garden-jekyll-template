@@ -9,7 +9,6 @@ Although it seems confusing, this list reveals an interesting pattern. The first
 
 
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[roots-of-uncertainty|Next page]]</p>
-<p style="text-align: center; background-color: #f9ecec; padding: 10px">[[the-beast|Previous page]]</p>
 
 <p style="text-align: center; padding: 10px">[[choice|Skip to next section]]⬈</p>
 

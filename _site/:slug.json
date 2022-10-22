@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEGINNING/origin-story.md",
+                "file": "BEGINNING/james-carse-quote.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEGINNING/origin-story.md",
+                "file": "BEGINNING/james-carse-quote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEGINNING/origin-story.md",
+                "file": "BEGINNING/james-carse-quote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEGINNING/origin-story.md"
+                "file": "BEGINNING/james-carse-quote.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "e111afc655dd32c2",
   "lastOpenFiles": [
-    "BEGINNING/jung-quote-red-book.md",
-    "BEGINNING/bruno-latour-quote.md",
     "BEGINNING/present.md",
-    "BEGINNING/choice.md",
-    "BEGINNING/death-drive.md",
-    "about.md",
-    "BEGINNING/1-The Beginning.md",
     "BEGINNING/james-carse-quote.md",
     "BEGINNING/past.md",
-    "BEGINNING/space.md"
+    "BEGINNING/time.md",
+    "BEGINNING/prediction-and-choice.md",
+    "BEGINNING/gregory.md",
+    "BEGINNING/popper.md",
+    "BEGINNING/skinner.md",
+    "BEGINNING/darwin.md",
+    "BEGINNING/four-creatures.md"
   ]
 }

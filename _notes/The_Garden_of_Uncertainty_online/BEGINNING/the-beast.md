@@ -5,4 +5,3 @@ Uncertainty is a formidable beast. It profoundly shapes our lives, yet playfully
 
 
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[synonyms|Next page]]</p>
-<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[hyperbook|Previous page]]</p>

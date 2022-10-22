@@ -6,4 +6,10 @@ title: James Carse quote
 ~ James Carse, Finite and Infinite Games
 
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[present|Next page]]</p>
-<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[past|Previous page]]</p>
+
+<hr>
+<p style="text-align: center; color: #f2800d">Marginalia</p>
+<figure>  
+  <img src="/assets/James_carse_quote.jpg"/>  
+  <figcaption>Image by Anagoge @ Midjourney</figcaption>  
+</figure>

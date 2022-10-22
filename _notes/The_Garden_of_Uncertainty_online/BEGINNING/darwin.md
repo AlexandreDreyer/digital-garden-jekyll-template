@@ -6,4 +6,3 @@ A meandering microbe is nothing short of astonishing. Within a microscopic body,
 *Inline quote: Daniel Dennett (2017). From Bacteria to Bach and Back: The Evolution of Minds. United States: W. W. Norton.*
 
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[skinner|Next page]]</p>
-<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[four-creatures|Previous page]]</p>

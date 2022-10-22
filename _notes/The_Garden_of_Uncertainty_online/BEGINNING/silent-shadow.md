@@ -5,4 +5,3 @@ Like a silent shadow, uncertainty lurks in the cracks between hope and expectati
 
 
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[jung-quote-red-book|Next page]]</p>
-<p style="text-align: center; background-color: #f9ecec; padding: 20px">[[roots-of-uncertainty|Previous page]]</p>
