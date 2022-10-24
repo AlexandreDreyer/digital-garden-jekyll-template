@@ -6,6 +6,13 @@ With the possible exception of deductive inference (pure logic), our choices are
 <p style="text-align: center; background-color: #fae6d1; padding: 20px">[[past|Next page]]</p>
 <p style="text-align: center; padding: 10px">[[space|Skip to next section]]⬈</p>
 
+<hr>
+<p style="text-align: center; color: #f2800d">Marginalia</p>
+<figure>  
+  <img src="/assets/time_midjourney.jpg"/>  
+  <figcaption>"Past, present, and future" by Anagoge @ Midjourney</figcaption>  
+</figure>
+
 <details>
 <summary>Pages in this section:</summary>
 

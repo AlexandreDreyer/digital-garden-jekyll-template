@@ -5,10 +5,9 @@ title: Dennis Lindley quote
 
 ~ Lindley, D. V. (2006). Understanding Uncertainty. Germany: Wiley.
 
-<table> 
-  <tr>  
-    <td><button type="button"><a href="/jung-quote-red-book" style="color: #f5993d">Back</a></button></td>  
-    <td><button type="button"><a href="/hypergraph" style="color: #f5993d">Hypergraph</a></button></td>   
-    <td><button type="button"><a href="/first-person-shooter" style="color: #f5993d">Next page</a></button> </td>  
-  </tr>   
-</table>
+<hr>
+<p style="text-align: center; color: #f2800d">Marginalia</p>
+<figure>  
+  <img src="/assets/escape_from_uncertainty_midjourney.jpg"/>  
+  <figcaption>Image by Anagoge @ Midjourney</figcaption>  
+</figure>
