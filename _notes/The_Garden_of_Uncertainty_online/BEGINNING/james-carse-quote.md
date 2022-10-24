@@ -10,6 +10,6 @@ title: James Carse quote
 <hr>
 <p style="text-align: center; color: #f2800d">Marginalia</p>
 <figure>  
-  <img src="/assets/James_carse_quote.jpg"/>  
+  <img src="/assets/time2_midjourney.jpg"/>  
   <figcaption>Image by Anagoge @ Midjourney</figcaption>  
 </figure>
