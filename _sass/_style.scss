@@ -26,10 +26,9 @@ body {
 }
 
 footer {
-  margin: 2em 0;
-  font-size: 0.8em;
-  color: mix($color-text, white, 80%);
-  padding-top: 1em;
+  margin: 0;
+  font-size: 1em;
+  color: $color-text;
 }
 
 img {
@@ -115,7 +114,7 @@ a {
   border-bottom: 1px solid $color-border;
   color: $color-link;
   &:link {
-            color: #006600;
+            color: $color-text;
             text-decoration: none;
   }
     &:hover {
@@ -127,10 +126,10 @@ a {
     top: -0.5em;
     font-size: 0.7em;
     content: "↗";
-    color: #aaaaaa;
+    color: $color-text;
   }
   &.internal-link {
-    color: $color-link;
+    color: $color-text;
     background: transparent;
   }
   &.internal-link:after,
