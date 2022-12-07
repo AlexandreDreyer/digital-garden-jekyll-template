@@ -35,6 +35,13 @@ collections:
   notes:
     output: true
     permalink: /:slug
+    order:
+        - /_notes/The_Garden_of_Uncertainty_online/BEGINNING/origin-story.md
+        - /_notes/The_Garden_of_Uncertainty_online/BEGINNING/obsession.md
+        - /_notes/The_Garden_of_Uncertainty_online/BEGINNING/on-uncertainty.md
+        - /_notes/The_Garden_of_Uncertainty_online/BEGINNING/bruno-latour-quote.md
+        - /_notes/The_Garden_of_Uncertainty_online/BEGINNING/the-beast.md
+
 
 defaults:
   - scope:
